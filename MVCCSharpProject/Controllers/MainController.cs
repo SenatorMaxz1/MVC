@@ -35,7 +35,7 @@ namespace MVCCSharpProject.Controllers
             var customers = _repository.GetCustomers();
             return View(customers);
         }
-
+JJJ
 public ActionResult TestAction(){
 return View();
 }
